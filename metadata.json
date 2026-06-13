@@ -1,0 +1,6 @@
+{
+  "name": "استغفار وأذكار",
+  "description": "تطبيق إسلامي راقٍ وبسيط للأذكار والاستغفار اليومي مع سبحة إلكترونية ذكية وإحصائيات لتتبع تقدمك الروحاني.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
